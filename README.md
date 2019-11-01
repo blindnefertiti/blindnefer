@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Ejemplo de estructuración</title>
+		<title> Ejemplo de estructuración </title>
 		<meta charset="utf-8">
 	</head>
 	<body>
